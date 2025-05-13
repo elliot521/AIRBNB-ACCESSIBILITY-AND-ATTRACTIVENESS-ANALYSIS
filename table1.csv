@@ -1,0 +1,342 @@
+suburb,num_airbnbs
+Waiheke Island,337
+Auckland Central West,189
+Auckland Harbourside,157
+Auckland Central East,154
+Freemans Bay,76
+Mt Victoria,73
+Ponsonby East,71
+Grey Lynn East,67
+Karekare,60
+Parnell West,59
+Westmere,55
+Takapuna Central,55
+Grey Lynn West,52
+Kingsland,49
+St Lukes,46
+Mission Bay,40
+St Marys,38
+Point Chevalier East,37
+Newton,36
+Abbotts Park,35
+Ponsonby West,34
+Titirangi South,33
+Sherbourne,33
+Hauraki,32
+Narrow Neck,32
+Eden Terrace,32
+Mt Eden North,31
+Balmoral,31
+Surrey Crescent,31
+Meadowbank North,30
+Manly,30
+Murrays Bay,29
+Orakei North,29
+Orewa,29
+Herne Bay,28
+Bayswater,27
+Mt Eden South,27
+Lake Pupuke,27
+Ellerslie North,25
+Hillsborough East,25
+St Heliers,25
+Arch Hill,24
+Remuera West,23
+Akarana,22
+Mt Albert Central,22
+One Tree Hill East,22
+Point Chevalier West,22
+Kohimarama East,21
+Beachlands-Maraetai,21
+Maungawhau,21
+Torbay,21
+Roberton,21
+Glendowie,20
+Sandringham West,20
+Newmarket,20
+Seacliffe,20
+Mt Hobson,20
+Onehunga North East,20
+Kohimarama West,19
+Greenhithe,19
+Waiake,19
+Kaurilands,19
+Kauri Park,19
+Parnell East,19
+Sandringham North,18
+Grafton West,18
+Orakei South,18
+Durham Green,18
+Stanley Bay,17
+Ormiston,17
+Northcote South,17
+Epsom South,17
+Meadowbank South,17
+Birkenhead East,17
+Mt Eden East,17
+Mairangi Bay,16
+Clevedon,16
+St Johns,16
+Beachhaven South,16
+Riverhead,16
+Greenmount,16
+Beachhaven North,16
+Three Kings,16
+Otimai,15
+Rothesay Bay,15
+Crown Hill,15
+Blockhouse Bay,15
+Epsom North,15
+Hamlin,15
+Hunua,15
+Springleigh,15
+Albany,14
+Oaktree,14
+Onehunga South West,14
+Howick Central,14
+Cockle Bay,14
+Glenavon,13
+Glen Eden East,13
+Waitaramoa,13
+Waiata,13
+Meadowland,13
+Epsom Central,13
+Castor Bay,13
+Konini,13
+Glen Innes North,13
+Royal Oak,12
+Bucklands and Eastern Beaches,12
+Laingholm,12
+Campbells Bay,12
+Westlake,12
+Sunnynook,12
+New Windsor,12
+Army Bay,12
+Browns Bay,11
+Sandringham East,11
+Kingseat,11
+Waterview,11
+North Harbour East,11
+Glendhu,11
+Redoubt South,11
+Ocean View,11
+Tuff Crater,11
+Hillsborough West,11
+Chelsea,10
+Monarch Park,10
+Kaipatiki,10
+Target Road,10
+Onehunga South East,10
+Wade Heads,10
+Muriwai Beach,10
+Mt Wellington South,9
+Kumeu West,9
+Mt Wellington West,9
+One Tree Hill Central,9
+Mangere South,9
+Owairaka West,9
+Glen Innes West,9
+Henderson North,9
+Paremoremo East,9
+Forrest Hill,9
+Owairaka East,9
+Waimumu North,9
+Vipond,9
+Birkdale South,9
+Howick South,9
+Point Chevalier South,9
+Mt St John,8
+Remuera South,8
+Silverdale Central,8
+Northcross,8
+Grafton East,8
+Avondale West,8
+West Harbour,8
+Glenfield Central,8
+Avondale South,8
+Gulf Harbour,8
+Awhitu,8
+Kaukapakapa Rural,8
+Murvale,7
+Totara Heights,7
+Drury,7
+Palm Heights,7
+Mcleod,7
+Waima,7
+Glenfield North,7
+Te Atatu Central,7
+Lucken Point,7
+Stonefields,7
+Fairview,7
+Mangere Bridge,7
+Millhouse,7
+Windsor Park,7
+Opanuku,7
+Long Bay,7
+Shelly Park,6
+Swanson South,6
+Elsmore Park,6
+Fruitvale,6
+Mellons Bay,6
+Takanini South,6
+Waikowhai West,6
+Ambury,6
+Unsworth Heights,6
+Waimumu South,6
+Point View,6
+Red Beach West,6
+Pinehill,6
+Green Bay,6
+Woodglen,6
+Donegal Park,6
+Windy Ridge,6
+Dairy Flat-Redvale,6
+Sturges North,6
+Whangapouri Creek,6
+Waitakere,6
+Lynfield South,6
+Sunnyhills,6
+Takanini West,6
+Rewarewa,5
+Hobsonville East,5
+Red Beach East,5
+Muriwai Valley,5
+Birkdale North,5
+Redoubt East,5
+Sunnybrae,5
+Hingaia,5
+Witheford,5
+Bleakhouse,5
+Stanmore Bay East,5
+North Harbour West,5
+Kumeu East,5
+Howick West,5
+Pakuranga East,5
+Lynfield North,5
+Otara South,5
+Glendene North,5
+Sunnyvale,5
+Pukekohe North,5
+Matipo,5
+Hatfields Beach,5
+Onehunga North West,5
+Tahekeroa,5
+Rewiti,5
+Glamorgan,5
+Edgewater,5
+Half Moon Bay,5
+Oranga,4
+Panmure Basin,4
+Silverdale North,4
+Turanga,4
+Glen Innes East,4
+Rosebank,4
+Ferndale,4
+Pukekohe West,4
+Lynnmall,4
+Huapai,4
+Wattle Farm,4
+Kawakawa-Orere,4
+Mt Wellington Domain,4
+Swanson,4
+Papatoetoe North,4
+Crum Park,4
+Redoubt North,4
+Wakeling,4
+Otahuhu East,4
+Henderson West,4
+Parrs Park West,4
+Baverstock Oaks,4
+Opaheke,4
+Royal Heights,3
+Mangere East,3
+Birdwood East,3
+Parrs Park,3
+Ellerslie South,3
+Riverhead Urban,3
+Royal Road West,3
+Urlich,3
+New Lynn North,3
+Birdwood West,3
+Awaruku,3
+Mt Wellington North,3
+Dingwall,3
+Penrose,3
+Oratia,3
+Pakuranga North,3
+Manurewa Central,3
+Kilkenny,3
+Kohuora,3
+Pigeon Mountain North,3
+Bremner,3
+Weiti River,3
+Puhinui South,3
+Kingdale,3
+Whenuapai West,3
+Armour Bay,3
+Stanmore Bay West,3
+Silverdale South,2
+Fairburn,2
+Waipareira West,2
+Hobsonville South,2
+Homai East,2
+Tauhoa-Puhoi,2
+Bucklands Beach South,2
+Papatoetoe Central,2
+Tamaki,2
+Papakura East,2
+Waitakere West,2
+Parakai Rural,2
+Wesley,2
+Papatoetoe West,2
+Aorere,2
+Takanini North,2
+Dannemora,2
+Runciman,2
+Kelston Central,2
+Clover Park,2
+Tangutu,2
+Pakuranga Central,2
+St Lukes North,2
+Arahanga,2
+Mangere Central,2
+Helensville,2
+Otahuhu West,2
+Paremoremo West,2
+Pigeon Mountain South,2
+Harania East,2
+Favona West,2
+Te Papapa,2
+Clendon North,2
+Highland Park,2
+Favona North,1
+Paerata-Cape Hill,1
+Henderson South,1
+Glendene South,1
+Golfland,1
+Taupaki,1
+Puhinui North,1
+Papakura North,1
+Rosehill,1
+Bledisloe Park,1
+Bombay,1
+Herald,1
+Grange,1
+Ardmore,1
+Pahurehure,1
+Leabank,1
+Homai West,1
+Paparata,1
+Harania North,1
+Papatoetoe East,1
+New Lynn South,1
+Papakura Central,1
+Point England,1
+Manurewa East,1
+Mill Road,1
+Waimauku,1
+Waikowhai East,1
+Red Hill,1
+Westgate,1
+Massey Park,1
+Papakura North East,1
